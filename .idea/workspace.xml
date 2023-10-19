@@ -1,11 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b2d5025b-838f-4bca-af4e-b3b261f652a7" name="Changes" comment="" />
+    <list default="true" id="b2d5025b-838f-4bca-af4e-b3b261f652a7" name="Changes" comment="Atualizando desafio DIO" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -31,6 +38,19 @@
       <option name="presentableId" value="Default" />
       <updated>1697754357718</updated>
     </task>
+    <task id="LOCAL-00001" summary="Atualizando desafio DIO">
+      <option name="closed" value="true" />
+      <created>1697754665048</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1697754665048</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Atualizando desafio DIO" />
+    <option name="LAST_COMMIT_MESSAGE" value="Atualizando desafio DIO" />
   </component>
 </project>
